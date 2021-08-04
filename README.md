@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fern0097
 - 👀 I'm passionate about coding and creating excellent things that have a positive influence on people's lives.
 - 🌱 I’m currently learning JavaScript, Java, Python, HTML and CSS. 
-- 💞️ I’m looking to ollaborate with equally passionate individuals to solve challenging problems and create impactful results.
+- 💞️ I'm seeking for like-minded people with whom I can work to solve difficult challenges and provide tangible outcomes.
 
 - 📫 How to reach me wilker.fernandes@hotmail.ca
 
